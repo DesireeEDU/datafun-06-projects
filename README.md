@@ -7,4 +7,4 @@ Complete:
 1. A guided exploratory data analysis project
 2. A unique data analysis/exploration project
 
-The goal is to tell an unique and compelling story with data. 
+The goal is to tell a unique and compelling story with data. 
